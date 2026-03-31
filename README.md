@@ -5,10 +5,16 @@ By using this kit, you agree not to host any copyrighted content with it or anyt
 
 The link on the right is just a preview to show you what it looks like.
 
-<h1>Video Template Types</h1>
+<h1>Video/Image Template Types</h1>
 <ul>
-  <li><b>Basic:</b> The Basic template just has the title and description, as well as the date of the video. For personal websites, business video pages, or most other projects, the Basic template is the one you will want to use.</li>
-  <li><b>Full:</b> The Full template also contains a like count, dislike count, and comments section and is mainly for those who want to create an archive of their YouTube channel if they decide to quit that platform. In that case, this is the template that you will want to use.</li>
+  <li><b>Basic:</b> The Basic template just has the title and description, as well as the date of the video or image. For personal websites, business pages, or most other projects, the Basic template is the one you will want to use.</li>
+  <li><b>Full:</b> The Full template also contains a like count, dislike count, and comments section and is mainly for those who want to create an archive of their YouTube channel or Instagram page if they decide to quit those platforms. In this case, this is the template that you will want to use.</li>
+</ul>
+
+<h2>Other pages</h2>
+<ul>
+  <li><b>Tabs:</b>The page with tabs on top is suitable for larger and more complicated projects. Smaller and simpler projects probably don't need this bit of code. To use it, just copy the code from the Tabs page and paste it into the index html file.</li>
+  <li><b>Galleries:</b>There are also video and image galleries that you can use in your projects.</li>
 </ul>
 <h1>List of projects that use some or all of this kit:</h1>
 <ul>
