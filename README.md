@@ -5,7 +5,12 @@ By using this kit, you agree not to host any copyrighted content with it or anyt
 
 The link on the right is just a preview to show you what it looks like.
 
-<b>List of projects that use some or all of this kit:</b>
+<h1>Video Template Types</h1>
+<ul>
+  <li><b>Basic:</b> The Basic template just has the title and description, as well as the date of the video. For personal websites, business video pages, or most other projects, the Basic template is the one you will want to use.</li>
+  <li><b>Full:</b> The Full template also contains a like count, dislike count, and comments section and is mainly for those who want to create an archive of their YouTube channel if they decide to quit that platform. In that case, this is the template that you will want to use.</li>
+</ul>
+<h1>List of projects that use some or all of this kit:</h1>
 <ul>
 <li><a href="https://atbw-label-networks.github.io/ATBW-Label-Networks-Archive/index.html">ATBW Label Networks Archive</a></li>
 <li><a href="https://21nd.github.io/Class-Of-2021-Project/">Class Of 2021 Project</a></li>
