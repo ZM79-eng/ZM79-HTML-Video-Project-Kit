@@ -5,8 +5,8 @@ By using this kit, you agree not to host any copyrighted content with it or anyt
 
 The link on the right is just a preview to show you what it looks like.
 
+<b>List of projects that use some or all of this kit:</b>
 <ul>
-  List of projects that use some or all of this kit:
 <li><a href="https://atbw-label-networks.github.io/ATBW-Label-Networks-Archive/index.html">ATBW Label Networks Archive</a></li>
 <li><a href="https://21nd.github.io/Class-Of-2021-Project/">Class Of 2021 Project</a></li>
 <li><a href="https://21nd.github.io/ZConditioner-Archive/">ZConditioner Archive</a></li>
